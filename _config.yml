@@ -11,6 +11,8 @@ repository: WAHS-Robotics-Club/sponsorship-info
 github_username: WAHS-Robotics-Club
 rss: false
 
+google_analytics: y
+
 show_excerpts: false
 
 minima:
