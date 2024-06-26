@@ -1,3 +1,1 @@
-# Sponsorship Info
-
 temp
