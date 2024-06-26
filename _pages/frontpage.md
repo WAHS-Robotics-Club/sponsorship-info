@@ -16,3 +16,14 @@ Your company’s brand on all team t-shirts (worn by all members) and our websit
 Your company’s brand logo on our club website.
 
 Please contact us at [westernalbemarlehsrobotics@gmail.com](malito:westernalbemarlehsrobotics@gmail.com).
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R99FP9SPK1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-R99FP9SPK1');
+</script>
