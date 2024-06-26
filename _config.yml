@@ -9,7 +9,7 @@ repository: WAHS-Robotics-Club/sponsorship-info
 
 # Minima social links
 github_username: WAHS-Robotics-Club
-rss: rss
+rss: false
 
 show_excerpts: false
 
