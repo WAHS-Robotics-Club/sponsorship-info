@@ -4,7 +4,8 @@ layout: home
 title: Sponsorship Info
 ---
 
-Our sponsorship tiers are below. Please contact us at [westernalbemarlehsrobotics@gmail.com](mailto:westernalbemarlehsrobotics@gmail.com)
+Our sponsorship tiers are below. Please contact us at [westernalbemarlehsrobotics@gmail.com](mailto:westernalbemarlehsrobotics@gmail.com). Our main website can be found at [wahsroboticsclub.org](https://www.wahsroboticsclub.org/).  
+  
 ## Gold - $750+ 
 Your company’s brand on all three team banners (which are displayed at competitions), robots, t-shirts (worn by all members), website, and a signed thank-you letter from our team at the end of the season
 ## Silver - $300+
