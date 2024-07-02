@@ -14,7 +14,7 @@ The First Tech Challenge (FTC), is an annual robotics competition in which teams
   <img src="./assets/work.png" style="max-height: 400px; width: auto; flex: 1; margin: 0 10px;">
   <img src="./assets/working.png" style="max-height: 400px; width: auto; flex: 1; margin: 0 10px;">
 </div>
-
+  
 ## Community
 Engaging with our community is a vital aspect of our club's mission. This involves connecting with experts in the field to understand the real-world applications of our robotics skills, collaborating with other FTC teams to grow as builders, coders, and individuals, and working to inspire local interest in STEM.
 
