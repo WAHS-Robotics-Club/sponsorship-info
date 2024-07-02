@@ -33,7 +33,7 @@ Below is an approximate breakdown of how we use the club's yearly income from sp
 
 <iframe width="424" height="371" style="display:block;margin-left:auto;margin-right:auto;" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_AM93sjkYjPSlnGnCGgEg4QNacnRUUsOMF1x0Mh4DxSSQ2NZtCjpLL4mlcKS9he5QB9z4Y4F99OC0/pubchart?oid=281913988&amp;format=interactive"></iframe>
 
-## Sponsorship
+# Sponsorship
 Our sponsorship options are below. Please contact us at [westernalbemarlehsrobotics@gmail.com](mailto:westernalbemarlehsrobotics@gmail.com). Our main website can be found at [wahsroboticsclub.org](https://www.wahsroboticsclub.org/).  
   
 ### Gold - $750+ 
@@ -42,5 +42,5 @@ Your company’s brand on all three team banners (which are displayed at competi
 Your company’s brand on all three team robots and t-shirts (worn by all members), and a signed thank-you letter from our team at the end of the season
 ### Bronze - $100+
 Your company’s brand on all team t-shirts (worn by all members) and our website, and a signed thank-you letter from our team at the end of the season.
-## Associate - $50+ 
+### Associate - $50+ 
 Your company’s brand logo on our club website.
