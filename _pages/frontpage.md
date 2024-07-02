@@ -1,9 +1,9 @@
 ---
 permalink: /
 layout: home
-title: Sponsorship Info
+title: Club Info
 ---
-
+## **[Click here for sponsorship details](#sponsorship)**
 ## Our Mission
 Our club's mission is to promote accessible STEM education in Central Virginia, and provide student-centered learning opportunities in engineering and design. We seek to develop the teamwork, organization, and leadership skills of the next generation. 
   
