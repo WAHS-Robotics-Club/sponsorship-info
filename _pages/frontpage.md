@@ -29,6 +29,8 @@ Another excellent event we've had the good fourtune of attending is the annual C
 <img src="./assets/uva.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
   
 ## Budget Breakdown
+Below is an approximate breakdown of how we use the club's yearly income from sponsors. We need to spend a lot of money each year to build our robots, which unfourtunately means that their is not much left over for improving and expanding. In particular, we hope that with an increased income, we'll be able to purchase invaluable tools, such as a CNC cutter, faster and more reliable 3D printers, and maybe even a laythe. Increased funds will enable us to purchase higher quality parts, and expand our manufacturing capabilities, therefore enabling us to expand our reach and impact within our community by demonstrating higher level robotics.
+
 <iframe width="424" height="371" style="display:block;margin-left:auto;margin-right:auto;" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_AM93sjkYjPSlnGnCGgEg4QNacnRUUsOMF1x0Mh4DxSSQ2NZtCjpLL4mlcKS9he5QB9z4Y4F99OC0/pubchart?oid=281913988&amp;format=interactive"></iframe>
 
 ## Sponsorship
