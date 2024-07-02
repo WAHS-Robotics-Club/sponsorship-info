@@ -10,9 +10,9 @@ Our club's mission is to promote accessible STEM education in Central Virginia, 
 # FIRST
 The First Tech Challenge (FTC), is an annual robotics competition in which teams build robots to compete in an alliance format against other teams. The objective of the competition changes annually, meaning teams design, build, program and test new robots each year. The challenge typically centers around constructing a dimensionally constrained robot, which expand vertically in order to acheive it objective, as well as perform other tasks. The program is built to foster professionalism, and works for the benefit of the communities nationwide. By participating in this competition, we not only learn technical skills such as Computer Aided Design (CAD) and coding but also develop leadership, teamwork, and organization. More information can be found at their website, [firstinspires.org](https://www.firstinspires.org/robotics/ftc).  
 
-<div style="display: flex;">
-<img src="./assets/work.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
-<img src="./assets/working.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
+<div style="display: flex; justify-content: center; align-items: flex-start; max-width: 100%; overflow: hidden;">
+  <img src="./assets/work.png" style="max-height: 400px; width: auto; flex: 1; margin: 0 10px;">
+  <img src="./assets/working.png" style="max-height: 400px; width: auto; flex: 1; margin: 0 10px;">
 </div>
 
 # Community
