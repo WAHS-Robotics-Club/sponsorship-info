@@ -3,12 +3,12 @@ permalink: /
 layout: home
 title: Club Info
 ---
-## **[Click here for sponsorship details](#sponsorship)**
+## **[Click here for sponsorship specific details](#sponsorship)**
 ## Our Mission
 Our club's mission is to promote accessible STEM education in Central Virginia and provide student-centered learning opportunities in engineering and design. We seek to develop the teamwork, organization, and leadership skills of the next generation. 
   
 ## FIRST
-The First Tech Challenge (FTC), is an annual robotics competition in which teams build robots to compete in an alliance format against other teams. The objective of the competition changes annually, meaning teams design, build, program, and test new robots each year. The challenge typically centers around constructing a dimensionally constrained robot, which expands vertically to achieve its objective and perform other tasks. The program is built to foster professionalism and works to benefit the communities nationwide. By participating in this competition, we learned technical skills such as Computer-Aided Design (CAD) and coding and developed leadership, teamwork, and organization. More information can be found at their website, [firstinspires.org](https://www.firstinspires.org/robotics/ftc).  
+The First Tech Challenge (FTC) is an annual robotics competition in which teams build robots and compete in an alliance format against other teams. The objective of the competition changes annually, meaning teams design, build, program, and test new robots each year. The challenge typically centers around constructing a dimensionally constrained robot, which must expand vertically to achieve its objective along with performing various other tasks. The program is built to foster professionalism and to benefit communities nationwide. By participating in this competition, our members learn skills such as Computer-Aided Design (CAD), coding, mechanical engineering, leadership, teamwork, and organizational abilities. More information about FTC can be found on their website, [firstinspires.org](https://www.firstinspires.org/robotics/ftc).  
 
 <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 100%; overflow: hidden;">
   <img src="./assets/work.png" style="max-height: 400px; width: auto; flex: 1; margin: 0 10px;">
@@ -21,7 +21,7 @@ Engaging with our community is a vital aspect of our club's mission. This involv
 
 <img src="./assets/WAHS Robotics Group Photo.jpeg" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
 
-At the WAHS robotics club, we participate in many events to spread STEM awareness and create community engagement. One event we participate in is ClubFest, organized by the Boys and Girls Clubs of Central Virginia. At ClubFest we showcased the club’s projects and interacted with many young technology enthusiasts. They enjoyed learning about our clubs robot and enjoyed watching it navigate around the festival. We think it's important to use our platform to spark interest in robotics from younger generations and this experience reinforced our commitment to community engagement and fostering future engineers.  
+In order to engage with our community at the WAHS robotics club, we participate in many events across Central Virginia. ClubFest is an event organized by the Boys and Girls Clubs of Central Virginia for groups to show off and attract new members. At ClubFest we showcased the club’s projects and interacted with many young technology enthusiasts. The attendees got to learn about our clubs robot and enjoyed watching it navigate around the festival. Part of our clubs mission is to create STEM interest in our community, and this experience reinforced our commitment to the goal of fostering future engineers.  
 
 <img src="./assets/child.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
 
