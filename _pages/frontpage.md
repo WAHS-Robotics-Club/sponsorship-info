@@ -34,7 +34,7 @@ During WAHS with a Cause, we had an opportunity to interest 2nd grade classes in
 
 <figure>
   <img src="./assets/cause.jpg" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
-  <figcaption style="display:block;margin-left:auto;margin-right:auto;"><em>Crozet Elementary students during WAHS with a Cause.</em></figcaption>
+  <figcaption style="text-align:center;"><em>Crozet Elementary students during WAHS with a Cause.</em></figcaption>
 </figure>
 
 ## Budget Breakdown
