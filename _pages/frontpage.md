@@ -29,9 +29,13 @@ This year we created a CAD (Computer Aided Design) class, for the students of th
 
 <img src="./assets/cad.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
   
-During WAHS with a a Cause, we had an opportunity to interest 2nd grade classes in Crozet elementary in robotics and engineering. Club members took the opportunity to explain the workings and development of our robotic, demonstrate the engineering process through use of Hot Wheels, and allow them to drive a robot through use of Spheros.
+During WAHS with a Cause, we had an opportunity to interest 2nd grade classes in Crozet Elementary in robotics and engineering. Club members took the opportunity to explain the workings and development of our robotic, demonstrate the engineering process through use of Hot Wheels, and allow them to drive a robot through use of Spheros.
 
-<img src="./assets/cause.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
+
+<figure>
+  <img src="./assets/cause.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
+  <figcaption>Crozet Elementary students during WAHS with a Cause.</figcaption>
+</figure>
 
 ## Budget Breakdown
 Below is an approximate breakdown of how we use the club's yearly income from sponsors. We need to spend a lot of money each year to build our robots, which unfortunately means that there is not much left over for improving and expanding. In particular, we hope that with an increased income, we'll be able to purchase invaluable tools, such as a CNC cutter, faster and more reliable 3D printers, and maybe someday a milling machine. Increased funds will enable us to purchase higher-quality parts, and expand our manufacturing capabilities, therefore enabling us to expand our reach and impact within our community by demonstrating higher-level robotics.
