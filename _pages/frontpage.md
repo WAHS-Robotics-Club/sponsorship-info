@@ -14,8 +14,9 @@ Beyond the technical aspects, FTC emphasizes the development of professionalism,
   
 <figure>
   <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 100%; overflow: hidden;">
-    <img src="./assets/work.png" style="max-height: 400px; width: auto; flex: 1; margin: 0 10px;">
-    <img src="./assets/working.png" style="max-height: 400px; width: auto; flex: 1; margin: 0 10px;">
+    <img src="./assets/work.png" style="max-width: 100%; height: auto; flex: 1; margin: 0 10px;">
+    <img src="./assets/working.png" style="max-width: 100%; height: auto; flex: 1; margin: 0 10px;">
+
   </div>
   <figcaption style="text-align:center;"><em>The team working on a robot.</em></figcaption>
 </figure>
