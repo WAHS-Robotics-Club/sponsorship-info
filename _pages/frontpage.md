@@ -14,8 +14,8 @@ Beyond the technical aspects, FTC emphasizes the development of professionalism,
   
 <figure>
   <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 100%; overflow: hidden;">
-    <img src="./assets/work.png" style="max-width: 100%; height: auto; flex: 1; margin: 0 10px;">
-    <img src="./assets/working.png" style="max-width: 100%; height: auto; flex: 1; margin: 0 10px;">
+    <img src="./assets/work.png" style="max-height: 400px; max-width: 100%; height: auto; flex: 1; margin: 0 10px;">
+    <img src="./assets/working.png" style="max-height: 400px; max-width: 100%; height: auto; flex: 1; margin: 0 10px;">
 
   </div>
   <figcaption style="text-align:center;"><em>The team working on a robot.</em></figcaption>
@@ -26,7 +26,7 @@ Beyond the technical aspects, FTC emphasizes the development of professionalism,
 Engaging with our community is a vital aspect of our club's mission. This involves connecting with experts in the field to understand the real-world applications of our robotics skills, collaborating with other FTC teams to grow as builders, coders, and individuals, and working to inspire local interest in STEM.
 
 <figure>
-  <img src="./assets/WAHS Robotics Group Photo.jpeg" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
+  <img src="./assets/WAHS Robotics Group Photo.jpeg" style="max-width: 100%;display:block;margin-left:auto;margin-right:auto;">
   <figcaption style="text-align:center;"><em>The WAHS Robotics team.</em></figcaption>
 </figure>
 
