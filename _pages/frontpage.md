@@ -36,7 +36,7 @@ In order to engage with our community at the WAHS robotics club, we participate 
   <figcaption style="text-align:center;"><em>A club member at ClubFest working with an attendee.</em></figcaption>
 </figure>
 
-This year, we created a CAD (Computer-Aided Design) class for the students of the nearby Henley Middle School, something we hope to continue in the future. Over five weeks, students learned the basics of the CAD software Onshape and were able to design their custom models, bringing them to life with our 3D printers. Our goal with the CAD class was to give the students a taste of what it's like to do engineering and to foster their interest in STEM subjects. After the excellent success we had this year, we plan to host the CAD class again next year.
+This year, we created a CAD (Computer-Aided Design) class for the students of the nearby Henley Middle School. Over five weeks, students learned the basics of the CAD software Onshape and were able to design their custom models, bringing them to life with our 3D printers. Our goal with the CAD class was to give the students a taste of what it's like to do engineering and to foster their interest in STEM subjects. After the excellent success we had this year, we plan to host the CAD class again next year.
 
 <figure>
   <img src="./assets/cad.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
