@@ -33,7 +33,7 @@ During WAHS with a Cause, we had an opportunity to interest 2nd grade classes in
 
 
 <figure>
-  <img src="./assets/cause.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
+  <img src="./assets/cause.jpg" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
   <figcaption>Crozet Elementary students during WAHS with a Cause.</figcaption>
 </figure>
 
