@@ -41,21 +41,21 @@ Engaging with our community is a vital aspect of our club's mission. This involv
 In order to engage with our community at the WAHS robotics club, we participate in many events across Central Virginia. ClubFest is an event organized by the Boys and Girls Clubs of Central Virginia for groups to show off and attract new members. At ClubFest we showcased the club’s projects and interacted with many young technology enthusiasts. The attendees got to learn about our club's robot and enjoyed watching it navigate around the festival. Part of our club's mission is to create STEM interest in our community, and this experience reinforced our commitment to the goal of fostering future engineers.  
 
 <figure>
-  <img src="./assets/child.png" height="400px" style="max-width:100%;display:block;margin-left:auto;margin-right:auto;">
+  <img src="./assets/child.png" style="max-width:100%;display:block;margin-left:auto;margin-right:auto;">
   <figcaption style="text-align:center;"><em>A club member at ClubFest working with an attendee.</em></figcaption>
 </figure>
 
 This year, we created a CAD (Computer-Aided Design) class for the students of the nearby Henley Middle School. Over five weeks, students learned the basics of the CAD software Onshape and were able to design their custom models, bringing them to life with our 3D printers. Our goal with the CAD class was to give the students a taste of what it's like to do engineering and to foster their interest in STEM subjects. After the excellent success we had this year, we plan to host the CAD class again next year.
 
 <figure>
-  <img src="./assets/cad.png" height="400px" style="max-width:100%;display:block;margin-left:auto;margin-right:auto;">
+  <img src="./assets/cad.png" style="max-width:100%;display:block;margin-left:auto;margin-right:auto;">
   <figcaption style="text-align:center;"><em>A guided project from the CAD class based on the design of 3D printers.</em></figcaption>
 </figure>
   
 During WAHS with a Cause, we had the opportunity to engage 2nd-grade classes at Crozet Elementary in robotics and engineering. Club members explained the workings and development of our robot, demonstrated the engineering process using Hot Wheels, and let the students drive aroung various robots.
 
 <figure>
-  <img src="./assets/cause.jpg" height="400px" style="max-width:100%;display:block;margin-left:auto;margin-right:auto;">
+  <img src="./assets/cause.jpg" style="max-width:100%;display:block;margin-left:auto;margin-right:auto;">
   <figcaption style="text-align:center;"><em>Crozet Elementary students during WAHS with a Cause.</em></figcaption>
 </figure>
 
