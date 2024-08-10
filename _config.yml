@@ -2,7 +2,7 @@ title: WAHS Robotics Club Information
 description: Info about the WAHS Robotics Team sponsorship options
 author: "WAHS Robotics"
 
-theme: minima
+remote_theme: jekyll/minima
 
 base_url: /sponsorship-info
 repository: WAHS-Robotics-Club/sponsorship-info
