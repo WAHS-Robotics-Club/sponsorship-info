@@ -13,10 +13,13 @@ The FIRST Tech Challenge (FTC) is an annual robotics competition where teams of 
 Beyond the technical aspects, FTC emphasizes the development of professionalism, cooperation, and community impact, benefiting participants and their surrounding communities. By participating in FTC, our members gain valuable experience in areas such as Computer-Aided Design (CAD), coding, mechanical engineering, project management, and leadership. The competition not only builds technical skills but also instills a strong sense of teamwork and organizational abilities. For more information about FTC, visit their website at [firstinspires.org](https://firstinspires.org/).
   
 <figure>
-  <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 100%; overflow: hidden;">
-    <img src="./assets/work.png" style="max-height: 400px; max-width: 100%; height: auto; flex: 1; margin: 0 10px;">
-    <img src="./assets/working.png" style="max-height: 400px; max-width: 100%; height: auto; flex: 1; margin: 0 10px;">
-
+  <div style="display: flex; flex-direction: row; width: 100%; justify-content: center; align-items: center;">
+    <div style="margin-right: 15px; display: flex; align-items: center;">
+        <img src="./assets/work.png" style="max-height: 400px; height: 100%; width: auto; object-fit: contain; display: block;">
+    </div>
+    <div style="display: flex; align-items: center;">
+        <img src="./assets/working.png" style="max-height: 400px; height: 100%; width: auto; object-fit: contain; display: block;">
+    </div>
   </div>
   <figcaption style="text-align:center;"><em>The team working on a robot.</em></figcaption>
 </figure>
