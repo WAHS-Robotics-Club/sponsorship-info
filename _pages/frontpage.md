@@ -56,7 +56,8 @@ Below is an approximate breakdown of how we use the club's yearly income from sp
 <iframe width="424" height="371" style="display:block;margin-left:auto;margin-right:auto;" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_AM93sjkYjPSlnGnCGgEg4QNacnRUUsOMF1x0Mh4DxSSQ2NZtCjpLL4mlcKS9he5QB9z4Y4F99OC0/pubchart?oid=281913988&amp;format=interactive"></iframe>
 
 # Sponsorship
-We greatly value the support of our sponsors, whose contributions are essential to the success of our club. Sponsorships allow us to build, innovate, and compete in robotics, while also providing valuable STEM education opportunities to students. By partnering with us, your company can help inspire the next generation of engineers and problem-solvers. Below, you'll find our sponsorship options. For more information or to become a sponsor, please contact us at [westernalbemarlehsrobotics@gmail.com](mailto:westernalbemarlehsrobotics@gmail.com). You can also visit our main website at [wahsroboticsclub.org](https://www.wahsroboticsclub.org/).
+We greatly value the support of our sponsors, whose contributions are essential to the success of our club. Sponsorships allow us to build, innovate, and compete in robotics, while also providing valuable STEM education opportunities to students. By partnering with us, your company can help inspire the next generation of engineers and problem-solvers. Below, you'll find our sponsorship options.  
+For more information or to become a sponsor, please contact us at [westernalbemarlehsrobotics@gmail.com](mailto:westernalbemarlehsrobotics@gmail.com). You can also visit our main website at [wahsroboticsclub.org](https://www.wahsroboticsclub.org/).
   
 ### Gold - $750+ 
 Your company’s brand on all three team banners (which are displayed at competitions), robots, t-shirts (worn by all members), website, and a signed thank-you letter from our team at the end of the season
