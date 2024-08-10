@@ -26,8 +26,12 @@ In order to engage with our community at the WAHS robotics club, we participate 
 <img src="./assets/child.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
 
 This year we created a CAD (Computer Aided Design) class, for the students of the nearby middle school, something we hope to continue. Over 5 weeks, students learned the basics of the CAD software, Onshape, and were able to design their custom models and see them come into reality with our 3D printers. Our goal with the CAD class was to give the students a taste of what it's like to do engineering and to foster their interest in STEM subjects. Next year we plan to host the CAD class again, after the excellent success we had this year.
+
+<img src="./assets/cad.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
   
-WAHS with a cause, is that you?
+During WAHS with a a Cause, we had an opportunity to interest 2nd grade classes in Crozet elementary in robotics and engineering. Club members took the opportunity to explain the workings and development of our robotic, demonstrate the engineering process through use of Hot Wheels, and allow them to drive a robot through use of Spheros.
+
+<img src="./assets/cause.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;">
 
 ## Budget Breakdown
 Below is an approximate breakdown of how we use the club's yearly income from sponsors. We need to spend a lot of money each year to build our robots, which unfortunately means that there is not much left over for improving and expanding. In particular, we hope that with an increased income, we'll be able to purchase invaluable tools, such as a CNC cutter, faster and more reliable 3D printers, and maybe someday a milling machine. Increased funds will enable us to purchase higher-quality parts, and expand our manufacturing capabilities, therefore enabling us to expand our reach and impact within our community by demonstrating higher-level robotics.
